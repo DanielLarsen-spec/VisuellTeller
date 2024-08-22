@@ -1,0 +1,27 @@
+.Buttons{
+margin: 10px;
+align-content:center;
+flex-direction: column;
+border: 2px; background-color:rgb(245, 211, 160) ;
+text-align: center;
+color: rgb(179, 110, 85);
+
+
+}
+
+.overSkrift{
+background-color: crimson;
+text-align: center;
+flex-direction: column;
+border: 2px;
+
+
+}
+
+.Up{
+    background-color: cadetblue;
+}
+
+.Down{
+    background-color: cadetblue;
+}
